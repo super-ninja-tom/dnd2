@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Silent Mode</string>
+    <string name="service_name">Silent Mode Service</string>
+    <string name="sleep_name">Sleep Device</string>
+    <string name="sample_device_admin">Sleep Device Admin</string>
+</resources>
